@@ -6,5 +6,5 @@
 &nbsp;
 ## About this ##
 <pre>
-you can see it's deploy at https://nextspaceyam.vercel.app/
+you can see it's deploy at https://nextspaceyam.vercel.app/ & https://nextspaceyam.netlify.app/
 </pre>
